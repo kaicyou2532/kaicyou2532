@@ -8,7 +8,7 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/kaicyou2532">
     <img height="40" src="https://img.shields.io/twitter/follow/kaicyou2532?label=Twitter&logo=twitter&style=flat" />
   <a href="https://github.com/kaicyou2532">
     <img height="40" src="https://img.shields.io/github/followers/kaicyou2532?label=follow&logo=github&style=flat" />
