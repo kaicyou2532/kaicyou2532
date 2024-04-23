@@ -8,14 +8,14 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   <a href="https://github.com/kaicyou2532/kaicyou2532/">
     <img src="https://komarev.com/ghpvc/?username=kaicyou2532" alt="kaicyou2532" />
   </a>
   <a href="https://github.com/kaicyou2532">
     <img height="20" src="https://img.shields.io/github/followers/kaicyou2532?label=follow&logo=github&style=flat" />
   </a>
+  
 </p>
 
-
-## Github-user-contribution
-![github-user-contribution](https://user-images.githubusercontent.com/67265109/208286045-77d4bf6d-2dc0-457a-9859-baff62d7adca.svg)
