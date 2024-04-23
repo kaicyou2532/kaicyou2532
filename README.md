@@ -1,18 +1,18 @@
 ## Metrics
 <p align="left"> 
-  <img alt="github stats" height="203px" src="https://github-readme-stats.vercel.app/api?username=ARAN1218&theme=tokyonight&show_icons=ture" />
-  <img alt="Top Langs" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAN1218&theme=tokyonight&show_icons=true" />
+  <img alt="github stats" height="203px" src="https://github-readme-stats.vercel.app/api?username=kaicyou2532&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicyou2532&theme=tokyonight&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ARAN1218&theme=tokyonight&column=8
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaicyou2532&theme=tokyonight&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-  <a href="https://github.com/ARAN1218/ARAN1218/">
-    <img src="https://komarev.com/ghpvc/?username=ARAN1218" alt="ARAN1218" />
+  <a href="https://github.com/kaicyou2532/kaicyou2532/">
+    <img src="https://komarev.com/ghpvc/?username=kaicyou2532" alt="kaicyou2532" />
   </a>
-  <a href="https://github.com/ARAN1218">
-    <img height="20" src="https://img.shields.io/github/followers/ARAN1218?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/kaicyou2532">
+    <img height="20" src="https://img.shields.io/github/followers/kaicyou2532?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
