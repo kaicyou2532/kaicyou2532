@@ -1,9 +1,9 @@
 <h1 align="center">Hi  I'm Kaicyou2532</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [OptimusInteractive](twitter.com/Optimusservers)
+-  I’m currently working on [OptimusInteractive](twitter.com/Optimusservers)
 
-- 🌱 I’m currently learning **GO,SQL,Python**
+-  I’m currently learning **GO,SQL,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
