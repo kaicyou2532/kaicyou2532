@@ -1,8 +1,8 @@
 <h1 align="center">Hi  I'm Kaicyou2532</h1>
 <h3 align="center"></h3>
 
--  オンラインゲームサーバー運営団体「OptimusInteractive」責任者<br>
--  　マインクラフトサーバー「オプ鯖」技術責任者
+- 
+-  
 - 
 
 -  I’m currently learning **GO,SQL,Python**
