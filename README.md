@@ -7,7 +7,7 @@
 <tr><td>2020.4<td>
 東邦大学附属東邦高校
 <tr><td>2023.4<td>青山学院大学社会情報学部
-<tr><td>2024.9<td>青山学院大学情報メディアセンター
+<tr><td>2024.9<td>青山学院大学情報メディアセンター学生スタッフ
 <tr><td>2025.2<td>Regent's University London
 </table>
 <h3 align="left">Works:</h3>
