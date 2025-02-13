@@ -2,13 +2,6 @@
 <h3 align="center"></h3>
 
 -  I’m currently learning **GO,SQL,Python**
-<h3 align="left">Works:</h3>
-<table>
-<tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
-<tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
-<tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
-<tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
-</table>
 <h3 align="left">Career:</h3>
 <table>
 <tr><td>2020.4<td>
@@ -17,7 +10,21 @@
 <tr><td>2024.9<td>青山学院大学情報メディアセンター
 <tr><td>2025.2<td>Regent's University London
 </table>
+<h3 align="left">Works:</h3>
+<table>
+<tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
+<tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
+<tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
+<tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
+</table>
 
+<h3 align="left">Awards:</h3>
+<table>
+<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
+<tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Maclay Rush
+<tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
+<tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaicyou2532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaicyou2532" height="30" width="40" /></a>
