@@ -7,7 +7,7 @@
 <tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
 <tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
-<tr><td>OptimusCMStd>自作CMS<td>Next.js<td>個人
+<tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
 </table>
 <h3 align="left">Career:</h3>
 <table>
