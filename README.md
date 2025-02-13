@@ -6,6 +6,13 @@
 - 
 
 -  I’m currently learning **GO,SQL,Python**
+<h3 align="left">Works:</h3>
+<table>
+<tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
+<tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
+<tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
+<tr><td>NextSoraBlog<td>自作CMS<td>Next.js,microCMS<td>個人
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
