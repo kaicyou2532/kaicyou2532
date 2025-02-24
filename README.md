@@ -16,6 +16,7 @@
 <tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
 <tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
+<tr><td>Traubling<td>旅行トラブル共有サイト<td>Next.js,PostgreSQL<td>チーム
 </table>
 
 <h3 align="left">Awards:</h3>
