@@ -24,6 +24,7 @@
 <tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Maclay Rush
 <tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons
+<tr><td>2024.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
