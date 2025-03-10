@@ -12,7 +12,7 @@
 </table>
 <h3 align="left">Awards:</h3>
 <table>
-<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b><b>Post</b>
+<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b><td><b>Post</b>
 <tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Maclay Rush<td>インフラ
 <tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト<td>インフラ
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons<td>全体設計/電気系統制作
