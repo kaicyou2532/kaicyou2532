@@ -4,6 +4,7 @@
 -  I’m currently learning **GO,SQL,Python**
 <h3 align="left">Career:</h3>
 <table>
+<tr><td><b>StartDate</b><td><b>what</b><td><b>備考</b>
 <tr><td>2020.4<td>
 東邦大学附属東邦高校<td>
 <tr><td>2023.4<td>青山学院大学社会情報学部<td>
