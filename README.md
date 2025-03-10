@@ -9,7 +9,7 @@
 東邦大学附属東邦高校<td>
 <tr><td>2023.4<td>青山学院大学社会情報学部<td>
 <tr><td>2024.9<td>青山学院大学情報メディアセンター<td>学生スタッフとしてアルバイト
-<tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドン
+<tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドンに留学として
 </table>
 <h3 align="left">Awards:</h3>
 <table>
