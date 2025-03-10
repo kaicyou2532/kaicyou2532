@@ -5,10 +5,10 @@
 <h3 align="left">Career:</h3>
 <table>
 <tr><td>2020.4<td>
-東邦大学附属東邦高校
-<tr><td>2023.4<td>青山学院大学社会情報学部
-<tr><td>2024.9<td>青山学院大学情報メディアセンター学生スタッフ
-<tr><td>2025.2<td>Regent's University London
+東邦大学附属東邦高校<td>
+<tr><td>2023.4<td>青山学院大学社会情報学部<td>
+<tr><td>2024.9<td>青山学院大学情報メディアセンター<td>学生スタッフとしてアルバイト
+<tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドン
 </table>
 <h3 align="left">Awards:</h3>
 <table>
