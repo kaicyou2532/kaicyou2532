@@ -25,6 +25,7 @@
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
 <tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
 <tr><td>Traubling<td>旅行トラブル共有サイト<td>Next.js,PostgreSQL<td>チーム
+<tr><td>OptimusBLOG<td>ブログ<td>Next.js,PostgreSQL<td>個人
 </table>
 
 <h3 align="left">Connect with me:</h3>
