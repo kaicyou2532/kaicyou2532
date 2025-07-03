@@ -41,7 +41,7 @@
 ## Metrics
 <p align="left"> 
   <img alt="github stats" height="203px" src="https://github-readme-stats.vercel.app/api?username=kaicyou2532&theme=tokyonight&show_icons=ture" />
-  <img alt="Top Langs" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicyou2532&theme=tokyonight&show_icons=true" />
+  <img alt="Top Langs" height="203px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaicyou2532&layout=donut-vertical&show_icons=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaicyou2532&theme=tokyonight&column=8
