@@ -49,11 +49,11 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-  <a href="https://twitter.com/kaicyou2532">
+<!--   <a href="https://twitter.com/kaicyou2532">
     <img height="200" src="https://img.shields.io/twitter/follow/kaicyou2532?label=x&logo=twitter&style=flat" />
   <a href="https://github.com/kaicyou2532">
     <img height="200" src="https://img.shields.io/github/followers/kaicyou2532?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   
 </p>
 
