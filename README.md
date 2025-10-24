@@ -17,7 +17,7 @@
 <tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Maclay Rush<td>インフラ<td>
 <tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト<td>インフラ<td>技育博2024vol.3出品
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons<td>全体設計/電気系統制作<td>
-<tr><td>2025.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling<td>PM/フロント/バックエンド<td>技育博2025vol.1出品
+<tr><td>2025.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling<td>PM/フロント/バックエンド<td>技育博2025vol.1,技育展2025出品
 </table>
 <h3 align="left">Works:</h3>
 <table>
