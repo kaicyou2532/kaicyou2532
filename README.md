@@ -28,6 +28,12 @@
 <tr><td>Traubling<td>旅行トラブル共有サイト<td>Next.js,PostgreSQL<td>チーム
 <tr><td>OptimusBLOG<td>ブログ<td>Next.js,PostgreSQL<td>個人
 </table>
+<h3 align="left">Inturnship:</h3>
+<table>
+<tr><td>2024.7<td>さくらインターネット株式会社
+<tr><td>2025.9<td>GMOインターネット株式会社
+<tr><td>2025.10-11<td>合同会社DMM
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
