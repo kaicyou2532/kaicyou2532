@@ -1,7 +1,4 @@
-<h1 align="center">Hi  I'm Kaicyou2532</h1>
-<h3 align="center"></h3>
 
--  I’m currently learning **GO,SQL,Python**
 <h3 align="left">Career:</h3>
 <table>
 <tr><td><b>StartDate</b><td><b>School/Career</b><td><b>Remarks</b>
@@ -32,7 +29,7 @@
 <table>
 <tr><td>2024.7<td>さくらインターネット株式会社
 <tr><td>2025.9<td>GMOインターネット株式会社
-<tr><td>2025.10-11<td>合同会社DMM
+<tr><td>2025.10-11<td>合同会社DMM.com
 </table>
 
 <h3 align="left">Connect with me:</h3>
