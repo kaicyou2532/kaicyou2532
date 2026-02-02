@@ -4,7 +4,7 @@
 <tr><td><b>StartDate</b><td><b>School/Career</b><td><b>Remarks</b>
 <tr><td>2020.4<td>
 東邦大学附属東邦高校<td>
-<tr><td>2023.4<td>青山学院大学社会情報学部<td>
+<tr><td>2023.4<td>青山学院大学社会情報学部社会情報学科<td>
 <tr><td>2024.9<td>青山学院大学情報メディアセンター<td>学生スタッフとしてアルバイト
 <tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドンに留学として
 </table>
