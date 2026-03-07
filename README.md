@@ -1,13 +1,13 @@
 
-<h3 align="left">Career:</h3>
+<h3 align="left">Career/経歴:</h3>
 <table>
 <tr><td><b>StartDate</b><td><b>School/Career</b><td><b>Remarks</b>
-<tr><td>2020.4<td>
-東邦大学附属東邦高校<td>
+<tr><td>2023.3<td>
+私立東邦大学附属東邦高校卒業<td>
 <tr><td>2023.4~<td>青山学院大学社会情報学部社会情報学科<td>
 <tr><td>2024.9~<td>青山学院大学情報メディアセンター<td>学生スタッフとしてアルバイト
 <tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドンに留学として
-<tr><td>2026.2~<td>GMOインターネット株式会社<td>アルバイト
+<tr><td>2026.2~<td>GMOインターネット株式会社<td>アルバイトとして
 </table>
 <h3 align="left">Awards:</h3>
 <table>
@@ -17,16 +17,7 @@
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons<td>全体設計/電気系統制作<td>
 <tr><td>2025.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling<td>PM/フロント/バックエンド<td>技育博2025vol.1,技育展2025出品
 </table>
-<h3 align="left">Works:</h3>
-<table>
-<tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
-<tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
-<tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
-<tr><td>OptimusCMS<td>自作CMS<td>Next.js<td>個人
-<tr><td>Traubling<td>旅行トラブル共有サイト<td>Next.js,PostgreSQL<td>チーム
-<tr><td>OptimusBLOG<td>ブログ<td>Next.js,PostgreSQL<td>個人
-</table>
-<h3 align="left">Inturnship:</h3>
+<h3 align="left">Inturnship/インターン:</h3>
 <table>
 <tr><td>2024.7<td>さくらインターネット株式会社
 <tr><td>2025.9<td>GMOインターネット株式会社
