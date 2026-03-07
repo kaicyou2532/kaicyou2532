@@ -17,7 +17,7 @@
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons<td>全体設計/電気系統制作<td>
 <tr><td>2025.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling<td>PM/フロント/バックエンド<td>技育博2025vol.1,技育展2025出品
 </table>
-<h3 align="left">Inturnship/インターン:</h3>　<td><b>備考</b>
+<h3 align="left">Inturnship/インターン:</h3>
 <table>
 <tr><td>2024.7<td>さくらインターネット株式会社<td><td>
 <tr><td>2025.9<td>GMOインターネット株式会社<td>就業型インターン<td>
