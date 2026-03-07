@@ -9,7 +9,7 @@
 <tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドンに留学として
 <tr><td>2026.2~<td>GMOインターネット株式会社<td>アルバイトとして
 </table>
-<h3 align="left">Awards:</h3>
+<h3 align="left">Awards/受賞履歴:</h3>
 <table>
 <tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b><td><b>Post</b><td><b>Remarks</b>
 <tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Maclay Rush<td>インフラ<td>
