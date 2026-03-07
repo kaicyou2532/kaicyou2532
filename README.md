@@ -4,9 +4,9 @@
 <tr><td><b>StartDate</b><td><b>School/Career</b><td><b>Remarks</b>
 <tr><td>2023.3<td>
 私立東邦大学附属東邦高校卒業<td>
+ <tr><td>2025<td>Regent's University London<td>イギリス,ロンドンに留学として 
 <tr><td>2023.4~<td>青山学院大学社会情報学部社会情報学科<td>
 <tr><td>2024.9~<td>青山学院大学情報メディアセンター<td>学生スタッフとしてアルバイト
-<tr><td>2025.2<td>Regent's University London<td>イギリス,ロンドンに留学として
 <tr><td>2026.2~<td>GMOインターネット株式会社<td>アルバイトとして
 </table>
 <h3 align="left">Awards/受賞履歴:</h3>
@@ -17,11 +17,11 @@
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons<td>全体設計/電気系統制作<td>
 <tr><td>2025.2.24<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>Traubling<td>PM/フロント/バックエンド<td>技育博2025vol.1,技育展2025出品
 </table>
-<h3 align="left">Inturnship/インターン:</h3>
+<h3 align="left">Inturnship/インターン:</h3>　<td><b>備考</b>
 <table>
-<tr><td>2024.7<td>さくらインターネット株式会社
-<tr><td>2025.9<td>GMOインターネット株式会社
-<tr><td>2025.10-11<td>合同会社DMM.com
+<tr><td>2024.7<td>さくらインターネット株式会社<td><td>
+<tr><td>2025.9<td>GMOインターネット株式会社<td>就業型インターン<td>
+<tr><td>2025.10-11<td>合同会社DMM.com<td>就業型インターン<td>
 </table>
 
 <h3 align="left">Connect with me:</h3>
